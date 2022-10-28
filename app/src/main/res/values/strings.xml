@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KTempConverter</string>
+    <string name="edittext_digitetemp">Digite a temperatura</string>
+    <string name="radiobutton_celcius">Celcius</string>
+    <string name="radiobutton_fahreinheit">Fahreinheit</string>
+    <string name="botao_convertertemperatura">Converter Temperatura</string>
 </resources>
