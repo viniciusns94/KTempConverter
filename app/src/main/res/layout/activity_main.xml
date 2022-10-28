@@ -23,14 +23,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Celcius"
-            android:id="@+id/actitivitymain_celciusradio"
+            android:id="@+id/activitymain_celciusradio"
             android:checked="false"/>
 
         <RadioButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Fahreinheit"
-            android:id="@+id/actitivitymain_fahreinheitradio"
+            android:id="@+id/activitymain_fahreinheitradio"
             android:checked="true"/>
     </RadioGroup>
 
